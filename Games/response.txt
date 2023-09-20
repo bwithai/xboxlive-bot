@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, must-revalidate
+Content-Length: 2219
+Content-Type: application/json
+Expires: Fri, 18 Aug 2023 10:50:10 GMT
+ETag: "04d7df1f94f663af0f0092e91e31d569"
+X-Content-Type-Options: nosniff
+MS-CV: ptQs7GD+FMDUg2lw.0
+X-Xbl-Debug: build=1.1.2308.01002, node=bfd8f087-06e9-4244-8f83-91e206a8589c
+X-Xbl-Debug: title=1022622766, device=WindowsOneCore(17942552733325432171), client=10.0.22621.0, authorization=user, sandbox=RETAIL, mode=Read
+X-Xbl-Debug: user0=2535418738450489; gamertag=RunicLace895900; privilege=multiplayer
+X-Xbl-Debug: session=4eb52440-26e5-6ffa-deb9-805080dfbcfd
+X-Xbl-Debug: session-access=read; reason=in-session
+Date: Fri, 18 Aug 2023 10:45:10 GMT
+
+{"membersInfo":{"first":0,"next":2,"count":2,"accepted":2,"active":1},"constants":{"system":{"readyRemovalTimeout":60000,"reservedRemovalTimeout":0,"sessionEmptyTimeout":0,"inactiveRemovalTimeout":300000,"version":1,"maxMembersCount":100,"visibility":"open","scheduledExpirationTimeout":1800000,"banPolicy":"kick","capabilities":{"hasOwners":true,"connectionRequiredForActiveMembers":true,"searchable":true,"crossPlay":true,"userAuthorizationStyle":true,"communicatePermissionRequired":true,"schedulable":true,"blockBadMsaReputation":true},"ownershipPolicies":{"migration":"endsession"}},"custom":{}},"roleTypes":{"lfg":{"ownerManaged":true,"mutableRoleSettings":["target"],"roles":{"confirmed":{"max":15,"target":1}}}},"properties":{"system":{"joinRestriction":"followed","readRestriction":"followed","searchHandleVisibility":"xboxlive","turn":[],"owners":[0]},"custom":{}},"bannedXuids":[],"servers":{},"commencementTime":"2023-08-18T10:44:35.6161574Z","searchHandle":"000001f6-0000-0000-8dc5-f5060473ddb6","members":{"0":{"next":1,"joinTime":"2023-08-18T10:44:35.6161574Z","constants":{"system":{"xuid":"2535418738450489","index":0},"custom":{}},"properties":{"system":{"subscription":{"id":"9aa9595c-4737-431d-bcef-17b7b5418103","changeTypes":["memberslist","membersstatus","joinability","customproperty","memberscustomproperty","roles","scheduledtime"]},"active":true,"connection":"f2e873a4-595a-4c78-a639-e67296592754","secondarySubscriptions":{"9aa9595c-4737-431d-bcef-17b7b5418103":{"changeTypes":["memberslist","membersstatus","joinability","customproperty","memberscustomproperty","roles","scheduledtime"],"rta":{"connection":"f2e873a4-595a-4c78-a639-e67296592754"}}}},"custom":{}},"gamertag":"RunicLace895900","activeTitleId":"1022622766"},"1":{"next":2,"joinTime":"2023-08-18T10:45:10.9284253Z","constants":{"system":{"xuid":"2535462668147277","index":1},"custom":{}},"properties":{"system":{"description":{"text":"Y","locale":"en-US"}},"custom":{}},"gamertag":"TogglesTheCat"}},"correlationId":"70357d3d-d79e-22f9-13ee-013fc223d88f","contractVersion":107,"branch":"fec4e756-f6cd-424f-b2cc-5a3967efdc43","changeNumber":4,"startTime":"2023-08-18T10:44:35.6161574Z","nextTimer":"2023-08-18T10:50:10.9284253Z"}
